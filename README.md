@@ -39,13 +39,15 @@ It provides a practical example of deploying a machine learning model in a real-
 | **Version Control** | Git & GitHub |
 
 ---
+## 📁 Project Structure
 ml-healthcare-premium-prediction/
-├── artifacts/ # Stored trained model or preprocessing artifacts
-├── main.py # Main Streamlit app file
-├── prediction_helper.py # Helper functions for prediction & preprocessing
-├── requirements.txt # Required Python libraries
-├── LICENSE # License file
-└── README.md # Project documentation
+
+- **artifacts/** – Stored trained model and preprocessing artifacts  
+- **main.py** – Main Streamlit app file  
+- **prediction_helper.py** – Helper functions for feature preprocessing and prediction  
+- **requirements.txt** – List of required Python libraries  
+- **LICENSE** – License file (Apache 2.0)  
+- **README.md** – Project documentation
 
 
 ---
@@ -139,5 +141,5 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub
 It helps others find and use it too 😊
 
 🩺 “Machine Learning meets Healthcare — predict smarter, live healthier!”
-## 📁 Project Structure
+
 
