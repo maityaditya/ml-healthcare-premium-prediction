@@ -127,7 +127,6 @@ The model instantly displays the predicted insurance premium.
 
 Aditya Maity
 🎓 BTech CSE | Data Science & ML Enthusiast
-🔗 GitHub Profile
 
 🪪 License
 
